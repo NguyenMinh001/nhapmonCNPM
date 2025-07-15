@@ -1,0 +1,1 @@
+if (!TaskValidator.isValid(title, dueDateStr, priority)) return null;
